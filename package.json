@@ -1,0 +1,26 @@
+{
+  "name": "parcel-bundler",
+  "version": "1.0.0",
+  "description": "1. Install npm\r 2. npm i -g parcel-bundler\r 3. parcel index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mint-nguyen/parcel-bundler.git"
+  },
+  "author": "Mint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mint-nguyen/parcel-bundler/issues"
+  },
+  "homepage": "https://github.com/mint-nguyen/parcel-bundler#readme",
+  "dependencies": {
+    "@types/faker": "^6.6.9",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2"
+  }
+}
