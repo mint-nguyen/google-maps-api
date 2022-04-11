@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mint-nguyen/parcel-bundler.git"
+    "url": "git+https://github.com/mint-nguyen/google-maps-api.git"
   },
   "author": "Mint",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mint-nguyen/parcel-bundler/issues"
+    "url": "https://github.com/mint-nguyen/google-maps-api/issues"
   },
-  "homepage": "https://github.com/mint-nguyen/parcel-bundler#readme",
+  "homepage": "https://github.com/mint-nguyen/google-maps-api#readme",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.12",
     "@types/faker": "^6.6.9",
